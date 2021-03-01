@@ -35,7 +35,7 @@ git clone https://github.com/fonnesbeck/gp_regression
 
 [920]: https://towardsdatascience.com/bayesian-a-b-testing-with-python-the-easy-guide-d638f89e0b8a
 
-### Videos
+### Multi-armed bandit
 
 [Introduction to multi-armed bandit][1000]
 
@@ -52,6 +52,10 @@ git clone https://github.com/fonnesbeck/gp_regression
 [Code for statistical rethinking][1030]
 
 [1030]: https://github.com/rmcelreath/rethinking
+
+### Bayesian analysis vs supervised learning
+
+https://wso2.com/blog/research/comparing-bayesian-and-classical-learning-techniques
 
 ### Contextual bandits
 
